@@ -1,4 +1,4 @@
-# nodejs-crud utilizando NodeJS, MongoDB e Mongoose"
+# nodejs-crud utilizando NodeJS, MongoDB e Mongoose
 
 Para iniciar o projeto digite `npm i`
 
